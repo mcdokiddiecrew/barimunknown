@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import badending from './assets/badending.png';
-import goodending from './assets/goodending.png';
+import badending from './assets/endings/badending.png';
+import goodending from './assets/endings/goodending.png';
 
 const images = [
   { src: 'path/to/qr1.png', alt: 'QR Code 1' },
