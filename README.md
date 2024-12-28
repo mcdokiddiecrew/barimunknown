@@ -1,8 +1,9 @@
-# React + Vite
+# QR Code Urls
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://shorturl.at/yOnwG
+https://shorturl.at/ZIJDZ
+https://shorturl.at/Qvskz
+https://shorturl.at/A5LQ4
+https://shorturl.at/6E2z0
+https://tinyurl.com/35rexv2t
+https://tinyurl.com/3kmsxeyt
