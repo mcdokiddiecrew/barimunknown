@@ -2,15 +2,22 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import badending from './assets/endings/badending.png';
 import goodending from './assets/endings/goodending.png';
+import qr1 from './assets/qr/qr1.png';
+import qr2 from './assets/qr/qr2.png';
+import qr3 from './assets/qr/qr3.png';
+import qr4 from './assets/qr/qr4.png';
+import qr5 from './assets/qr/qr5.png';
+import qr6 from './assets/qr/qr6.png';
+import qr7 from './assets/qr/qr7.png';
 
 const images = [
-  { src: 'path/to/qr1.png', alt: 'QR Code 1' },
-  { src: 'path/to/qr2.png', alt: 'QR Code 2' },
-  { src: 'path/to/qr3.png', alt: 'QR Code 3' },
-  { src: 'path/to/qr4.png', alt: 'QR Code 4' },
-  { src: 'path/to/qr5.png', alt: 'QR Code 5' },
-  { src: 'path/to/qr6.png', alt: 'QR Code 6' },
-  { src: 'path/to/qr7.png', alt: 'QR Code 7' },
+  { src: qr1, alt: 'QR Code 1' },
+  { src: qr2, alt: 'QR Code 2' },
+  { src: qr3, alt: 'QR Code 3' },
+  { src: qr4, alt: 'QR Code 4' },
+  { src: qr5, alt: 'QR Code 5' },
+  { src: qr6, alt: 'QR Code 6' },
+  { src: qr7, alt: 'QR Code 7' },
   { src: goodending, alt: 'Good Ending' },
   { src: badending, alt: 'Bad Ending' },
 ];
