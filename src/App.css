@@ -12,6 +12,31 @@
   transition: background-color 3s ease, color 3s ease;
 }
 
+/* General */
+.qr-code {
+  width: 50vw;
+  height: auto;
+  max-width: 500px; 
+  max-height: 500px;
+  margin: 20px auto;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .qr-code {
+    width: 80vw;
+    max-width: 300px;
+  }
+}
+
+/* Larger Desktop */
+@media (min-width: 1200px) {
+  .qr-code {
+    width: 40vw;
+    max-width: 400px;
+  }
+}
+
 .bottomtext {
   font-weight: bold;
   font-size: 2em;
