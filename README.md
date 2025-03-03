@@ -1,9 +1,10 @@
 # QR Code Urls
 
-- https://shorturl.at/yOnwG
-- https://shorturl.at/ZIJDZ
-- https://shorturl.at/Qvskz
-- https://shorturl.at/A5LQ4
-- https://shorturl.at/6E2z0
-- https://tinyurl.com/35rexv2t
-- https://tinyurl.com/3kmsxeyt
+- https://tinyurl.com/4eaarspx
+- https://tinyurl.com/7ahjd90l
+- https://tinyurl.com/r1mb4d12
+- https://tinyurl.com/4m4wk4xd
+- https://tinyurl.com/kh43n53x
+- https://tinyurl.com/0r30r0ck
+- https://tinyurl.com/4rg4pp4u
+- https://tinyurl.com/r1cm4g4z
