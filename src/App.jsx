@@ -9,6 +9,7 @@ import qr4 from './assets/qr/qr4.png';
 import qr5 from './assets/qr/qr5.png';
 import qr6 from './assets/qr/qr6.png';
 import qr7 from './assets/qr/qr7.png';
+import qr8 from './assets/qr/qr8.png';
 import goodending1 from './assets/sounds/goodending1.mp3';
 import goodending2 from './assets/sounds/goodending2.mp3';
 import badending1 from './assets/sounds/badending1.mp3';
@@ -22,6 +23,7 @@ const images = [
   { src: qr5, alt: 'QR Code 5' },
   { src: qr6, alt: 'QR Code 6' },
   { src: qr7, alt: 'QR Code 7' },
+  { src: qr7, alt: 'QR Code 8' },
   { src: goodending, alt: 'Good Ending' },
   { src: badending, alt: 'Bad Ending' },
 ];
